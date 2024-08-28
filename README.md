@@ -1,13 +1,11 @@
-<h1 align="center"> Eu sou José Bezerra !! </h1>
+<h1 align="center">Eu sou José Bezerra! </h1>
 
 - 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas na FIAP
 - 🍃 Aprendendo Spring framework
 - 🎮 Jogador de RPGs e card games
 <hr />
 
-<div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=angular,nodejs,git,java,postgres,azure&theme=dark)
-</div>
+
 
 ## Stats
 <div align="center">
@@ -16,3 +14,9 @@
 </div>
 
 
+<hr />
+<div align="center">
+
+  ![My Skills](https://skillicons.dev/icons?i=azure,express,git,graphql,mysql,nestjs,nextjs,nodejs,postgres,prisma,ts&theme=dark)
+
+</div>
