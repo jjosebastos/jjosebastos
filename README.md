@@ -17,6 +17,6 @@
 <hr />
 <div align="center">
 
-  ![My Skills](https://skillicons.dev/icons?i=azure,express,git,graphql,mysql,nestjs,nextjs,nodejs,postgres,prisma,ts&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=azure,angular,cs,java,spring,git,mysql,nodejs,docker,ts&theme=dark)
 
 </div>
