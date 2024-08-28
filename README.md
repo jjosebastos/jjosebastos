@@ -12,9 +12,9 @@
 
 
 <hr />
-
-![My Skills](https://skillicons.dev/icons?i=angular,nodejs,git,java,oracle,postgres,azure&theme=dark)
-
+<div align="center">
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,git,java,ts,postgres,azure&theme=dark)
+</div>
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjosebastos&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=000&title_color=94D5F&text_color=FFF)
