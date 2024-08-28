@@ -13,7 +13,7 @@
 
 <hr />
 <div align="center">
-![My Skills](https://skillicons.dev/icons?i=angular,nodejs,git,java,ts,postgres,azure&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,git,java,postgres,azure&theme=dark)
 </div>
 ## Stats
 
