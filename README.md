@@ -1,6 +1,8 @@
-# Eu sou José Bezerra !!
+<h1 align="center"> Eu sou José Bezerra !! </h1>
 
-Desenvolvedor front-end iniciante, morando atualmente em Suzano-SP e graduando em Analise de Sistemas pela FIAP. Apaixonado pela tecnologia e ciência, desde criança. Atualmente trabalho com banco de dados e infraestrutura.
+- 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 🍃 Aprendendo Spring framework
+- 🎮 Jogador de RPGs e card games
 
 
 ## Conecte-se comigo 
