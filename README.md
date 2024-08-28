@@ -11,7 +11,7 @@ Desenvolvedor front-end iniciante, morando atualmente em Suzano-SP e graduando e
 
 <hr />
 
-![My Skills](https://skillicons.dev/icons?=angular,nodejs,git,java,oracle,postgres,azure&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,git,java,oracle,postgres,azure&theme=dark)
 
 ## Stats
 
