@@ -1,6 +1,7 @@
 <h1 align="center">Eu sou José Bezerra! </h1>
 
 - 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 📒 Fiz Tecnologia da Informação na ETEC
 - 🍃 Aprendendo Spring framework
 - 🎮 Jogador de RPGs e card games
 <hr />
