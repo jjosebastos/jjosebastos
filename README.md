@@ -1,11 +1,9 @@
-<h3 align="center">José Bastos | Back-End & Fullstack Developer</h3>
+<h3 align="center">José Bastos | Back-End & </h3>
 
-<p align="center">
-  Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas pela FIAP. 
-</p>
+<hr />
 
 ### 🚀 Sobre mim
-
+- 🧑‍🎓 Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas pela FIAP. 
 - 💻 Experiência sólida em **Java e Spring Boot**, construindo desde integrações de mensageria (GCP Pub/Sub, RabbitMQ) até serviços robustos para o setor financeiro.
 - ⚙️ Experiência prática na arquitetura e desenvolvimento de APIs usando o ecossistema **C# e .NET Core**.
 - 🗄️ Amplo domínio de modelagem e manipulação de bancos de dados relacionais e NoSQL (**PostgreSQL, Oracle DB, MongoDB**).
