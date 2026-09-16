@@ -1,26 +1,23 @@
-<h1 align="center">Olá, eu sou José Bezerra 👋</h1>
-<h3 align="center">Back-End Developer | Java & Spring Boot</h3>
+<h3 align="center">José Bastos | Back-End & Fullstack Developer</h3>
 
 <p align="center">
-  Desenvolvedor formado em Análise e Desenvolvimento de Sistemas pela FIAP, com experiência em Java, Spring Boot e integração de sistemas.
-  Atualmente atuando na área de suporte técnico e me dedicando à transição para uma vaga de desenvolvimento back-end/fullstack.
+  Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas pela FIAP. 
 </p>
-
-<hr />
 
 ### 🚀 Sobre mim
 
-- 💻 Back-End Developer, com experiência prática em **Java, Spring Boot e Apache Camel**
-- ☁️ Já trabalhei com **integração de mensageria (GCP Pub/Sub)** e **pipelines de CI/CD** em ambiente financeiro
-- 🖥️ Também transito por **fullstack** (Angular, React, Node.js)
-- 🎮 Nas horas vagas, jogando RPGs e card games
+- 💻 Experiência sólida em **Java e Spring Boot**, construindo desde integrações de mensageria (GCP Pub/Sub, RabbitMQ) até serviços robustos para o setor financeiro.
+- ⚙️ Experiência prática na arquitetura e desenvolvimento de APIs usando o ecossistema **C# e .NET Core**.
+- 🗄️ Amplo domínio de modelagem e manipulação de bancos de dados relacionais e NoSQL (**PostgreSQL, Oracle DB, MongoDB**).
+- 🛠️ Atualmente desenvolvendo sistemas de gestão de inventário e catalogação (Openmac), lidando com arquitetura back-end e front-end (**Angular, Tailwind CSS**).
 
 
 <div align="center">
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,nodejs,react,ts,next,html,css,figma&theme=dark)
-
+  <h3>Tecnologias e Ferramentas</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,angular,react,postgres,oracle,mongodb,docker,rabbitmq,tailwind,figma&theme=dark" alt="Minhas Habilidades" />
 </div>
+
+<br/>
 
 ### 📊 GitHub Stats
 
