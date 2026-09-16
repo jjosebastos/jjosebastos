@@ -1,4 +1,4 @@
-<h3 align="center">José Bastos | Back-End & </h3>
+<h3 align="center">José Bastos | Back-End Developer </h3>
 
 <hr />
 
