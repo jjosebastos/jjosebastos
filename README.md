@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>Tecnologias e Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,angular,react,postgres,oracle,mongodb,docker,rabbitmq,tailwind,figma&theme=dark" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,postgres,mongodb,docker,rabbitmq,tailwind,figma&theme=dark" alt="Minhas Habilidades" />
 </div>
 
 <br/>
