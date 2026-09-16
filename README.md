@@ -7,8 +7,6 @@
 - 💻 Experiência sólida em **Java e Spring Boot**, construindo desde integrações de mensageria (GCP Pub/Sub, RabbitMQ) até serviços robustos para o setor financeiro.
 - ⚙️ Experiência prática na arquitetura e desenvolvimento de APIs usando o ecossistema **C# e .NET Core**.
 - 🗄️ Amplo domínio de modelagem e manipulação de bancos de dados relacionais e NoSQL (**PostgreSQL, Oracle DB, MongoDB**).
-- 🛠️ Atualmente desenvolvendo sistemas de gestão de inventário e catalogação (Openmac), lidando com arquitetura back-end e front-end (**Angular, Tailwind CSS**).
-
 
 <div align="center">
   <h3>Tecnologias e Ferramentas</h3>
