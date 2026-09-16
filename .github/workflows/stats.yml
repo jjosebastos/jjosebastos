@@ -1,0 +1,30 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente também
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=jjosebastos&show_icons=true&theme=dark&include_all_commits=true&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.PAT_STATS }}
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=jjosebastos&layout=compact&langs_count=7&theme=dark
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT_STATS }}
