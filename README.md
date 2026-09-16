@@ -9,7 +9,6 @@
 - 🗄️ Amplo domínio de modelagem e manipulação de bancos de dados relacionais e NoSQL (**PostgreSQL, Oracle DB, MongoDB**).
 
 <div align="center">
-  <h3>Tecnologias e Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,postgres,mongodb,docker,rabbitmq,tailwind,figma&theme=dark" alt="Minhas Habilidades" />
 </div>
 
